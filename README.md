@@ -73,7 +73,7 @@ fn main() {
       <br>Python
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=csharp" width="45" height="45" alt="C#" />
+      <img src="https://skillicons.dev/icons?i=c#" width="45" height="45" alt="C#" />
       <br>C#
     </td>
     <td align="center" width="90">
