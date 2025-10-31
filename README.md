@@ -1,8 +1,8 @@
 ```markdown
 # 👋 Welcome to my github page! <br />
 
-I am a **diligent software engineer and AI developer** with **over 9 years of experience**. <br />  
-I specialize in building **AI-powered systems, autonomous agents, real-time ML infrastructure, and decentralized applications** for global clients. <br />  
+I am a **diligent software engineer and AI developer** with **over 9 years of experience** in building **cutting-edge AI systems, full-stack applications, and decentralized infrastructure** for global clients.
+I specialize in **LLM-powered applications, autonomous agents, real-time systems, and blockchain intelligence**.  
 Unfortunately, many of my production projects are closed-source — but feel free to explore my public repositories below.
 
 ## 💡 Favorite Saying 👍
@@ -135,4 +135,4 @@ fn main() {
 </table>
 
 <h2></h2>
-```
+
