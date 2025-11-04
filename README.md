@@ -169,20 +169,7 @@ fn main() {
       <img src="https://assets.coingecko.com/coins/images/12171/small/polkadot.png?1639712644" width="45" height="45" alt="Polkadot" />
       <br>Polkadot
     </td>
-    <td align="center" width="90">
-      <img src="https://assets.coingecko.com/coins/images/12559/small/avalanche-avax-logo.png?1598433272" width="45" height="45" alt="Avalanche" />
-      <br>Avalanche
-    </td>
-    <td align="center" width="90">
-      <img src="https://assets.coingecko.com/coins/images/16547/small/arbitrum.png?1624519337" width="45" height="45" alt="Arbitrum" />
-      <br>Arbitrum
-    </td>
-  </tr>
-
-  <!-- Databases + DevOps -->
-
-  <tr>
-    <td align="center" width="90">
+     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=terraform" width="45" height="45" alt="Terraform" />
       <br>Terraform
     </td>
@@ -190,6 +177,12 @@ fn main() {
       <img src="https://skillicons.dev/icons?i=postgresql" width="45" height="45" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
+  </tr>
+
+  <!-- Databases + DevOps -->
+
+  <tr>
+   
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" />
       <br>MySQL
