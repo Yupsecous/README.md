@@ -146,35 +146,35 @@ fn main() {
 
   <tr>
     <td align="center" width="90">
-      <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=029" width="45" height="45" alt="Ethereum" />
+      <img src="https://assets.coingecko.com/coins/images/279/small/ethereum.png?1595348880" width="45" height="45" alt="Ethereum" />
       <br>Ethereum
     </td>
     <td align="center" width="90">
-      <img src="https://cryptologos.cc/logos/polygon-matic-logo.svg?v=029" width="45" height="45" alt="Polygon" />
+      <img src="https://assets.coingecko.com/coins/images/4713/small/matic-token-icon.png?1624446912" width="45" height="45" alt="Polygon" />
       <br>Polygon
     </td>
     <td align="center" width="90">
-      <img src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=029" width="45" height="45" alt="Solana" />
+      <img src="https://assets.coingecko.com/coins/images/4128/small/solana.png?1640133422" width="45" height="45" alt="Solana" />
       <br>Solana
     </td>
     <td align="center" width="90">
-      <img src="https://cryptologos.cc/logos/binance-coin-bnb-logo.svg?v=029" width="45" height="45" alt="Binance Smart Chain" />
+      <img src="https://assets.coingecko.com/coins/images/825/small/bnb-icon2_2x.png?1644979850" width="45" height="45" alt="Binance Smart Chain" />
       <br>BSC
     </td>
     <td align="center" width="90">
-      <img src="https://cryptologos.cc/logos/ipfs-logo.svg?v=029" width="45" height="45" alt="IPFS" />
+      <img src="https://simpleicons.org/icons/ipfs.svg" width="45" height="45" alt="IPFS" />
       <br>IPFS
     </td>
     <td align="center" width="90">
-      <img src="https://cryptologos.cc/logos/polkadot-new-dot-logo.svg?v=029" width="45" height="45" alt="Polkadot" />
+      <img src="https://assets.coingecko.com/coins/images/12171/small/polkadot.png?1639712644" width="45" height="45" alt="Polkadot" />
       <br>Polkadot
     </td>
     <td align="center" width="90">
-      <img src="https://cryptologos.cc/logos/avalanche-avax-logo.svg?v=029" width="45" height="45" alt="Avalanche" />
+      <img src="https://assets.coingecko.com/coins/images/12559/small/avalanche-avax-logo.png?1598433272" width="45" height="45" alt="Avalanche" />
       <br>Avalanche
     </td>
     <td align="center" width="90">
-      <img src="https://cryptologos.cc/logos/arbitrum-arb-logo.svg?v=029" width="45" height="45" alt="Arbitrum" />
+      <img src="https://assets.coingecko.com/coins/images/16547/small/arbitrum.png?1624519337" width="45" height="45" alt="Arbitrum" />
       <br>Arbitrum
     </td>
   </tr>
