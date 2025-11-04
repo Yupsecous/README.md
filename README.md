@@ -140,32 +140,6 @@ fn main() {
       <img src="https://skillicons.dev/icons?i=postgresql" width="45" height="45" alt="PostgreSQL" />
     </td>
   </tr>
-
-  <tr>
-    
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" />
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=redis" width="45" height="45" alt="Redis" />
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="45" height="45" alt="Neo4j" />
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="45" height="45" alt="Elasticsearch" />
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS" />
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=gcp" width="45" height="45" alt="GCP" />
-    </td>
-    
-  </tr>
 </table>
 
 
